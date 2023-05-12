@@ -31,7 +31,7 @@ import gc
 #
 import camera
 from wifi import Sta
-from help import Setting as cam_setting
+from whelp import Setting as cam_setting
 import site
 
 auth=site.auth
